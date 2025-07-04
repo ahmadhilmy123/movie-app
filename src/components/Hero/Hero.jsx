@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import styles from "../hero/Hero.module.css";
+import styles from "./Hero.module.css";
 import Button from "../UI/Button";
 
 function Hero() {
