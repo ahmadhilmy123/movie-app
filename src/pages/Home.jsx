@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import axios from "axios";
 import Navbar from "../components/Navbar/Navbar";
-import Hero from "../components/hero/Hero";
+import Hero from "../components/Hero/Hero";
 import Footer from "../components/Footer/Footer";
 import Movies from "../components/Movies/Movies";
 import Heading from '../components/UI/Typography/Heading';
